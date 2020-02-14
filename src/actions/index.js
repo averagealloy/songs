@@ -1,4 +1,4 @@
-export const selectSong = (song) => {
+export const selectSong = song => {
     
     //return an action
     return {
